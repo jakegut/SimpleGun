@@ -1,0 +1,7 @@
+author: Borgdude
+description: "Simple Gun"
+main: com.borgdude.simplegun.SimpleGun
+name: SimpleGun
+version: "${project.version}"
+api-version: 1.13
+softdepend: [Simple_PaintBall]
